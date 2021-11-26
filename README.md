@@ -6,8 +6,22 @@
 ```console
 mkdir build
 cd build
-cmake ..s
+cmake ..
 make
+```
+
+If you want to enable debugging in the build output, use the following command instead of `cmake ..`
+
+```console
+cmake -DCMAKE_BUILD_TYPE=Debug ..
+```
+
+## Run
+
+To run the output executable file you need root permissions:
+
+```console
+sudo ./main
 ```
 
 ## Resources
