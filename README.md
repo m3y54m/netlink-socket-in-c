@@ -31,3 +31,5 @@ sudo ./main
 - [The Proc Connector and Socket Filters](https://nick-black.com/dankwiki/index.php/The_Proc_Connector_and_Socket_Filters)
 - [Detect new process creation instantly in linux](https://stackoverflow.com/q/26852228/5000746)
 - [How do you set GDB debug flag with cmake?](https://stackoverflow.com/questions/10005982/how-do-you-set-gdb-debug-flag-with-cmake)
+- [sigaction() — Examine or change a signal action](https://pubs.opengroup.org/onlinepubs/9699919799/functions/sigaction.html)
+- [Termination Signals](https://www.gnu.org/software/libc/manual/html_node/Termination-Signals.html)
